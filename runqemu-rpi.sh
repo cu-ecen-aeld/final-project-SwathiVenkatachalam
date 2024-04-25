@@ -2,6 +2,8 @@
 #!/bin/sh
 
 KERNEL="buildroot/output/images/Image"
+#KERNEL="buildroot/output/build/linux-custom/arch/arm/boot/Image"
+#KERNEL="buildroot/output/images/sdcard.img"
 DTB="buildroot/output/images/bcm2710-rpi-3-b.dtb" 
 ROOTFS="buildroot/output/images/rootfs.ext2"
 
