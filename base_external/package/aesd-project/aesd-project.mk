@@ -5,7 +5,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference camera driver code
-AESD_PROJECT_VERSION = '74db4a19fb916937b3117686414856b4e71f56aa'
+AESD_PROJECT_VERSION = '13f8543dc919d20c7441f1948127cc06d9d0d7b6'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
