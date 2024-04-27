@@ -14,7 +14,7 @@ AESD_PROJECT_SITE_METHOD = git
 AESD_PROJECT_GIT_SUBMODULES = YES
 
 define AESD_PROJECT_BUILD_CMDS
-	$(MAKE) $(TARGET_CONFIGURE_OPTS) -C $(@D)/server all
+	$(MAKE) $(TARGET_CONFIGURE_OPTS) -C $(@D)/camera all
 endef
 
 # TODO add your writer, finder and finder-test utilities/scripts to the installation steps below
