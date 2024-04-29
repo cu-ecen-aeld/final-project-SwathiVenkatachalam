@@ -11,5 +11,4 @@ The Project Schedule can be found [here](https://github.com/users/KapureCUB/proj
 # Overview
 
 Configuration of rpi  for Buildroot hosted here.
-Camera Driver Code.
 
