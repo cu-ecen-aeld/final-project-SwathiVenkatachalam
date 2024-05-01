@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_SV_APP
+	bool "sv-app"
+	help
+	  Includes the stereo vision code.
